@@ -1,4 +1,4 @@
-//    Variables globales de la hoja de cálculo, editado por última vez el 24 de diciembre de 2024
+//    Variables globales de la hoja de cálculo. Editado por última vez el 24 de diciembre de 2024
 
 const hoja_de_calculo                 = SpreadsheetApp.getActiveSpreadsheet();
 
